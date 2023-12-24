@@ -1,0 +1,3 @@
+Dataset/processed\thuy\z4357674602277_73639d51f7b423ee03d6b72e753ef281.png 289 601 906 1444
+Dataset/processed\thuy\WIN_20231122_08_28_47_Pro.png 319 157 714 572
+Dataset/processed\thuy\WIN_20231122_08_28_41_Pro.png 491 128 778 492

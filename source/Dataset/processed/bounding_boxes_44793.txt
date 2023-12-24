@@ -1,0 +1,3 @@
+Dataset/processed\nhung\WIN_20231122_09_15_48_Pro.png 647 167 896 460
+Dataset/processed\thuy\WIN_20231122_09_15_45_Pro.png 655 144 883 419
+Dataset/processed\thuy\WIN_20231122_09_15_48_Pro.png 647 167 896 460

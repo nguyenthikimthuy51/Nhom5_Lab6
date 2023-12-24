@@ -1,0 +1,8 @@
+Dataset/processed\thuy\thuy10.png 402 130 692 448
+Dataset/processed\thuy\thuy3.png 456 157 780 567
+Dataset/processed\thuy\thuy4.png 410 108 686 466
+Dataset/processed\thuy\thuy5.png 516 153 825 525
+Dataset/processed\thuy\thuy6.png 481 196 776 566
+Dataset/processed\thuy\thuy7.png 480 103 745 429
+Dataset/processed\thuy\thuy8.png 469 94 757 464
+Dataset/processed\thuy\thuy9.png 472 77 754 445

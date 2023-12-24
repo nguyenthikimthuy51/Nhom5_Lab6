@@ -1,0 +1,4 @@
+Dataset/processed\nhung\nhung.png 647 167 896 460
+Dataset/processed\nhung\nhung2.png 551 169 792 472
+Dataset/processed\thuy\thuy.png 319 157 714 572
+Dataset/processed\thuy\thuy2.png 491 128 778 492

@@ -1,0 +1,10 @@
+Dataset/processed\nhung\nhung9.png 379 170 1529 1727
+Dataset/processed\nhung\nhung6.png 167 95 549 621
+Dataset/processed\nhung\nhung8.png 365 114 1496 1698
+Dataset/processed\nhung\nhung3.png 51 167 1791 2374
+Dataset/processed\nhung\nhung1.png 337 10 1668 1842
+Dataset/processed\nhung\nhung5.png 357 346 1890 2238
+Dataset/processed\nhung\nhung2.png 276 357 1471 1844
+Dataset/processed\nhung\nhung7.png 325 92 1436 1610
+Dataset/processed\nhung\nhung.png 86 255 1562 1966
+Dataset/processed\nhung\nhung4.png 436 205 1662 1916
