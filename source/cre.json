@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimum-shore-389103",
+  "private_key_id": "910d15b349fe380fc61db5e9da20f0ee575f90ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHA/1IJ3jdq6ZI\nk596+FOjdTYqRj3xhbN0N+Eb3scLS5ORh7AGBvS2cF5FUq4n2TKpi04mdqfbfSmE\nfv1Xctbz0h8RjU4bL7X7ZJNxQ8oXGS2xMwAeFZSADLXSSJu3xcGByhSEIgRr1CsN\nVI3S3z3MzEqvAJmGWWimDq+AMSXdC62U/E2XYTUs1xkW5IobsZufSlRYnhvtSANX\nVsqaY0qUWP0zOmA2d/ZJg34fu6ijWgfbO+PgRg4gVFoc/dXaoVs2w6AYjB5U6flY\nOLtORTWXs9BLQcP9NsecNrAwI3h+aZtns5fjLntUQx3MML8yggyeNjiskdRlihl2\n0YHPOxvfAgMBAAECggEATmlyemLe+sveLNtJKzy7S3xrlnVtg4MvxPsdTQtV9kvV\nPTIudvl3oogchIjCiH3JucZiyMHYeiDS4lrce3+KVK+1wQchPpHqTD4A39AbSEWJ\n3Lbg9XmANIGNg+hKvjoC953EvpjekBOc0Ng/NtXxdgcJ5/C/DJGeq0q++C2lIvV8\nDtZozhYtVMJ37P/3yFotcPhhRiwsAtckF6O6cae9Rx8Bd6Nlp/es1F8yJ09TOeUt\ncKmsCYa7VsxKLVzLSa4NuN9nRuvOq4z6+9RXiaSGRpndw0b5rcbrSA5mgzlrCoEb\nCFX6FmOKrFDvLzXuf40cLEtVGrmAd/hnQoDm3+gLXQKBgQDzwVdFhFqJm3tbRsmG\ncjNKwa+Uz8CbKJmCEIG9NpR5tyqt8HIUtWlQSWBokiSRjXn64aowTBr+yJkB8JWW\n2SEBESWo5aOO53OL7FM8GwHDCunILtJIuO3fPTzm6X7hItoLVpsoJ+1tftJVDxKW\nDYlIL08J+wikYqFvR2QN8XoRFQKBgQDRA015Ax5uMINoClUxbs/CHoeOibz8zMzG\nFWMIcuP6evU6RWLf4HBKZxDzadWz/FZN3XJENyFo5wpiwqXG+D9+ia4VrAUK/CWE\nY7+rpVX6WoriaSyTak9Py98n7P6KUjwp+wvPu2+uFCRYcuijAVWB9ZZxJyRq4dxu\n7cx8jtUuIwKBgDI48MFK/tiBZ44r7JO97eGGPKX9lCKj39UTj5erqjXVzn5eHzMz\nGYrIQ4voKI6wxqQxYL5ov9sk+5mRt1CIViuBG/BLuEJWX9FBlPi6W8eS9Q4gz4Ta\nTXCEjorJKzI52xEg/ADvERVRXwbVfy/ZhCKSVMeqqGIuTDLAU9Ynnc3tAoGAU9nz\nVrz9lE86KJ8clnxSNRpyX6i6fODctgsWc+lDtNVnVD1J8W7lHbRDhKPM7Cwro4lX\nsi475Q3riLt2LmCheG5bvK4KR+HoWzh5SK9H0uxIE5UGIQ3hS64KlMXrSCq9oEnq\n7yfPIhNKkYFn+x0p5L1V4YdGgOqjuI0GIGJc++kCgYAA2C8ytqhqccktYHg19JeJ\ndcXcPwpAXuudWphUJ4ec2KNVP2ikdBXMXUzLg/Hjr5BPk83V9IpvRL89fDgNtd34\nArTSb2FUa/kxaD4Fj6HhGyUCMbQb5G8qBeyeC0rXOUpADGXLDriqUcwvEjbCrOQv\nLbQH8qp820OqM/ctZNh+Gw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheet@optimum-shore-389103.iam.gserviceaccount.com",
+  "client_id": "109846787325122405124",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheet%40optimum-shore-389103.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
